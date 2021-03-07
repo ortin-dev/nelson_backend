@@ -4,15 +4,24 @@ module RoomBases
     step :prepare_params
     step :create
 
+    attr_reader :current_user
+
     private
 
     def prepare_params(params)
-      room_base_params = params.require(:room_base).permit(:title, :room_type)
-      next_step(room_base_params)
+      @current_user = params[:current_user]
+
+      next_step(params)
     end
 
-    def create(room_base_params)
-      room_base = Rooms::RoomBase.new(room_base_params)
+    def create(params)
+      room_base = Rooms::RoomBase.new(
+        params.require(:room_base).permit(
+          policy_for(:room_base, current_user).permitted_attributes_for_create
+        )
+      )
+      return response_error('not_allowed') unless  policy_for(:room_base, current_user).create?
+
       room_base.save ? response_success(room_base) : response_error(room_base.errors.full_messages)
     end
   end

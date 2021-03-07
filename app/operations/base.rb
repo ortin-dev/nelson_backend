@@ -1,5 +1,6 @@
 class Base
   include Dry::Transaction
+  include Core::Helpers::PolicyHelper
 
   attr_accessor :params
 
