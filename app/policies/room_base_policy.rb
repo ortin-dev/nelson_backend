@@ -6,7 +6,8 @@ class RoomBasePolicy < ApplicationPolicy
   end
 
   def create?
-    user.owner?
+    # user.owner?
+    true
   end
 
   def permitted_attributes_for_create

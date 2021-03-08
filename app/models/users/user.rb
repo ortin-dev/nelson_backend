@@ -1,6 +1,6 @@
 module Users
   class User < ApplicationRecord
-    enum role: [:owner, :teamate, :client]
+    enum role: [:owner, :teammate, :client]
 
     validates :first_name, :last_name, :email, presence: true
     validates :password, :password_confirmation, presence: true, on: :create
