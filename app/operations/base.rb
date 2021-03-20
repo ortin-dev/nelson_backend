@@ -1,6 +1,6 @@
 class Base
-  include Dry::Transaction
   include Pundit
+  include Dry::Transaction
   include Core::Helpers::PolicyHelper
   include Core::Helpers::SerializersHelper
 
@@ -28,6 +28,6 @@ class Base
   end
 
   def authorize_for(resource, action)
-    policy_for(resource, current_user).send("#{action}?")
+    raise SecurityError.new("#{resource} not allowed / action: #{action}") unless policy_for(resource, current_user).send("#{action}?")
   end
 end

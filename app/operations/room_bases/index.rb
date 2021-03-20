@@ -2,14 +2,18 @@ module RoomBases
   class Index < Base
 
     step :prepare_params
-    step :index
+    step :perform
 
     private
 
-    def index(params)
-      return response_error('not_allowed') unless authorize_for(:room_base, :index)
+    def perform(params)
+      authorize_for(:room_base, :index)
 
-      []
+      response_success(room_bases, serializer: :room_base_index)
+    end
+
+    def room_bases
+      @room_bases ||= policy_scope(RoomBase)
     end
   end
 end

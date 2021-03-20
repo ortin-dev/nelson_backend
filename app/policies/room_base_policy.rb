@@ -4,7 +4,7 @@ class RoomBasePolicy < ApplicationPolicy
       if user.owner?
         scope.all
       else
-        scope.includes(:teamates).where(teamates: { user_id: user.id })
+        scope.joins(:users).where(users: { id: user.id })
       end
     end
   end
