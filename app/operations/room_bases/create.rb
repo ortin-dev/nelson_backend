@@ -6,14 +6,8 @@ module RoomBases
 
     private
 
-    def prepare_params(params)
-      @current_user = params[:current_user]
-
-      next_step(params)
-    end
-
     def create(params)
-      return response_error('not_allowed') unless policy_for(:room_base, current_user).create?
+      return response_error('not_allowed') unless authorize_for(:room_base, :create)
 
       room_base = Rooms::RoomBase.new(
         params.require(:room_base).permit(
