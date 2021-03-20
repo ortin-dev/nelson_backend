@@ -21,3 +21,35 @@ unison: started
 [2021-03-20 11:55:04 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
 [2021-03-20 11:55:04 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:55:04.47 on 20 Mar 2021
 [2021-03-20 11:55:04 +0300] Sync Log:  Synchronization complete at 11:55:04  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-source-code
+          ok  app-source-code container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-source-code
+[2021-03-20 12:04:53 +0300] Sync Log:  [END] Updating file public/.well-known/apple-app-site-association
+[2021-03-20 12:04:53 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:33:04.69 on 19 Mar 2021
+[2021-03-20 12:04:53 +0300] Sync Log:  Synchronization complete at 17:33:04  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-20 12:04:53 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 11:55:04.43 on 20 Mar 2021
+[2021-03-20 12:04:53 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2021-03-20 12:04:53 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2021-03-20 12:04:53 +0300] Sync Log:  [BGN] Deleting .docker-sync/daemon.pid from /app_sync
+[2021-03-20 12:04:53 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2021-03-20 12:04:53 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:55:04.47 on 20 Mar 2021
+[2021-03-20 12:04:53 +0300] Sync Log:  Synchronization complete at 11:55:04  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-source-code
+          ok  app-source-code container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-source-code
+[2021-03-20 12:14:39 +0300] Sync Log:  [END] Updating file public/.well-known/apple-app-site-association
+[2021-03-20 12:14:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:33:04.69 on 19 Mar 2021
+[2021-03-20 12:14:39 +0300] Sync Log:  Synchronization complete at 17:33:04  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-20 12:14:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 11:55:04.43 on 20 Mar 2021
+[2021-03-20 12:14:39 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2021-03-20 12:14:39 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2021-03-20 12:14:39 +0300] Sync Log:  [BGN] Deleting .docker-sync/daemon.pid from /app_sync
+[2021-03-20 12:14:39 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2021-03-20 12:14:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:55:04.47 on 20 Mar 2021
+[2021-03-20 12:14:39 +0300] Sync Log:  Synchronization complete at 11:55:04  (2 items transferred, 0 skipped, 0 failed)
