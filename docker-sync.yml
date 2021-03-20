@@ -1,0 +1,10 @@
+version: '2'
+
+syncs:
+  app-source-code:
+    src: '.'
+    host_disk_mount_mode: 'cached'
+    sync_userid: '9999'
+    sync_prefer: 'newer'
+    sync_excludes: ['.git', 'tmp', 'log', '*.rdb']
+    sync_excludes_type: 'Name'

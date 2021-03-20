@@ -5,7 +5,7 @@ module Authentication
   attr_accessor :current_user
 
   def not_found
-    render json: { error: 'not_found' }
+    render json: { error: 'not_found' }, status: 404
   end
 
   def authenticate_user
