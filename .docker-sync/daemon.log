@@ -53,3 +53,28 @@ unison: started
 [2021-03-20 12:14:39 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
 [2021-03-20 12:14:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:55:04.47 on 20 Mar 2021
 [2021-03-20 12:14:39 +0300] Sync Log:  Synchronization complete at 11:55:04  (2 items transferred, 0 skipped, 0 failed)
+[2021-03-22 10:22:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:22:54.63 on 22 Mar 2021
+[2021-03-22 10:22:55 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-22 10:22:55 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-22 10:22:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:22:54.64 on 22 Mar 2021
+[2021-03-22 10:22:55 +0300] Sync Log:  Synchronization complete at 10:22:54  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-22 10:23:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:23:51.91 on 22 Mar 2021
+[2021-03-22 10:23:52 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-22 10:23:52 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-22 10:23:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:23:51.91 on 22 Mar 2021
+[2021-03-22 10:23:52 +0300] Sync Log:  Synchronization complete at 10:23:51  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-22 10:26:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:26:26.49 on 22 Mar 2021
+[2021-03-22 10:26:26 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-22 10:26:26 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-22 10:26:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:26:26.49 on 22 Mar 2021
+[2021-03-22 10:26:26 +0300] Sync Log:  Synchronization complete at 10:26:26  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-22 10:31:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:31:12.59 on 22 Mar 2021
+[2021-03-22 10:31:12 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-22 10:31:12 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-22 10:31:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:31:12.59 on 22 Mar 2021
+[2021-03-22 10:31:12 +0300] Sync Log:  Synchronization complete at 10:31:12  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-22 10:31:15 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:31:15.14 on 22 Mar 2021
+[2021-03-22 10:31:15 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-22 10:31:15 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-22 10:31:15 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:31:15.15 on 22 Mar 2021
+[2021-03-22 10:31:15 +0300] Sync Log:  Synchronization complete at 10:31:15  (1 item transferred, 0 skipped, 0 failed)

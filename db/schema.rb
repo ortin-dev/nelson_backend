@@ -10,16 +10,52 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_20_133228) do
+ActiveRecord::Schema.define(version: 2021_03_22_190612) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "board_steps", force: :cascade do |t|
+    t.bigint "task_board_id"
+    t.string "title", default: "", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.integer "position", default: 0, null: false
+    t.index ["task_board_id"], name: "index_board_steps_on_task_board_id"
+  end
+
+  create_table "board_tickets", force: :cascade do |t|
+    t.bigint "board_step_id"
+    t.string "title", default: "", null: false
+    t.text "description", default: "", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.integer "position", default: 0, null: false
+    t.index ["board_step_id"], name: "index_board_tickets_on_board_step_id"
+  end
+
+  create_table "executors", force: :cascade do |t|
+    t.bigint "board_ticket_id"
+    t.bigint "user_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["board_ticket_id"], name: "index_executors_on_board_ticket_id"
+    t.index ["user_id"], name: "index_executors_on_user_id"
+  end
 
   create_table "room_bases", force: :cascade do |t|
     t.string "title", null: false
     t.integer "room_type", default: 0, null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "task_boards", force: :cascade do |t|
+    t.bigint "room_base_id"
+    t.string "title", default: "", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["room_base_id"], name: "index_task_boards_on_room_base_id"
   end
 
   create_table "teammates", force: :cascade do |t|
