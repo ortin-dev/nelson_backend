@@ -1,5 +1,5 @@
 module RoomBases
-  class Create < Base
+  class Create < BaseOperation
 
     step :prepare_params
     step :perform

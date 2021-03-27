@@ -1,7 +1,7 @@
 module Core
   module Helpers
     module JwtHelper
-      def encode(payload, exp = 24.hours.from_now)
+      def encode(payload, exp = 240.hours.from_now)
         payload[:exp] = exp.to_i
         JWT.encode(payload, Rails.application.secrets.secret_key_base.to_s)
       end

@@ -78,3 +78,309 @@ unison: started
 [2021-03-22 10:31:15 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
 [2021-03-22 10:31:15 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:31:15.15 on 22 Mar 2021
 [2021-03-22 10:31:15 +0300] Sync Log:  Synchronization complete at 10:31:15  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-source-code
+          ok  app-source-code container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-source-code
+[2021-03-25 23:59:17 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/client/products/bundle.js.opal
+[2021-03-25 23:59:17 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:11:25.90 on 25 Mar 2021
+[2021-03-25 23:59:17 +0300] Sync Log:  Synchronization complete at 20:11:25  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-25 23:59:17 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 20:11:26.94 on 25 Mar 2021
+[2021-03-25 23:59:17 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/client/products/cart.js.opal from /host_sync to /app_sync
+[2021-03-25 23:59:17 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/client/products/cart.js.opal
+[2021-03-25 23:59:17 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/client/products/subscribe.js.opal from /host_sync to /app_sync
+[2021-03-25 23:59:17 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/client/products/subscribe.js.opal
+[2021-03-25 23:59:17 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:11:26.94 on 25 Mar 2021
+[2021-03-25 23:59:17 +0300] Sync Log:  Synchronization complete at 20:11:26  (2 items transferred, 0 skipped, 0 failed)
+[2021-03-25 23:59:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:59:40.23 on 25 Mar 2021
+[2021-03-25 23:59:40 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2021-03-25 23:59:40 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2021-03-25 23:59:40 +0300] Sync Log:  [BGN] Deleting .docker-sync/daemon.pid from /app_sync
+[2021-03-25 23:59:40 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2021-03-25 23:59:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:59:40.26 on 25 Mar 2021
+[2021-03-25 23:59:40 +0300] Sync Log:  Synchronization complete at 23:59:40  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-source-code
+          ok  app-source-code container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-source-code
+[2021-03-26 00:22:12 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/client/products/subscribe.js.opal
+[2021-03-26 00:22:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:11:26.94 on 25 Mar 2021
+[2021-03-26 00:22:12 +0300] Sync Log:  Synchronization complete at 20:11:26  (2 items transferred, 0 skipped, 0 failed)
+[2021-03-26 00:22:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:59:40.23 on 25 Mar 2021
+[2021-03-26 00:22:12 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2021-03-26 00:22:12 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2021-03-26 00:22:12 +0300] Sync Log:  [BGN] Deleting .docker-sync/daemon.pid from /app_sync
+[2021-03-26 00:22:12 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2021-03-26 00:22:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:59:40.26 on 25 Mar 2021
+[2021-03-26 00:22:12 +0300] Sync Log:  Synchronization complete at 23:59:40  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-source-code
+          ok  app-source-code container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-source-code
+[2021-03-26 00:39:29 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/client/products/subscribe.js.opal
+[2021-03-26 00:39:29 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 20:11:26.94 on 25 Mar 2021
+[2021-03-26 00:39:29 +0300] Sync Log:  Synchronization complete at 20:11:26  (2 items transferred, 0 skipped, 0 failed)
+[2021-03-26 00:39:29 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 23:59:40.23 on 25 Mar 2021
+[2021-03-26 00:39:29 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2021-03-26 00:39:29 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2021-03-26 00:39:29 +0300] Sync Log:  [BGN] Deleting .docker-sync/daemon.pid from /app_sync
+[2021-03-26 00:39:29 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2021-03-26 00:39:29 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 23:59:40.26 on 25 Mar 2021
+[2021-03-26 00:39:29 +0300] Sync Log:  Synchronization complete at 23:59:40  (2 items transferred, 0 skipped, 0 failed)
+[2021-03-26 09:07:57 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:07:56.76 on 26 Mar 2021
+[2021-03-26 09:07:57 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile from /host_sync to /app_sync
+[2021-03-26 09:07:57 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile
+[2021-03-26 09:07:57 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:07:56.77 on 26 Mar 2021
+[2021-03-26 09:07:57 +0300] Sync Log:  Synchronization complete at 09:07:56  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:09:01 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:09:00.73 on 26 Mar 2021
+[2021-03-26 09:09:01 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile from /host_sync to /app_sync
+[2021-03-26 09:09:01 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile
+[2021-03-26 09:09:01 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:09:00.73 on 26 Mar 2021
+[2021-03-26 09:09:01 +0300] Sync Log:  Synchronization complete at 09:09:00  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:10:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:09:59.69 on 26 Mar 2021
+[2021-03-26 09:10:00 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:10:00 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:10:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:09:59.70 on 26 Mar 2021
+[2021-03-26 09:10:00 +0300] Sync Log:  Synchronization complete at 09:09:59  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:10:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:10:09.99 on 26 Mar 2021
+[2021-03-26 09:10:10 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:10:10 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:10:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:10:10.00 on 26 Mar 2021
+[2021-03-26 09:10:10 +0300] Sync Log:  Synchronization complete at 09:10:10  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:11:57 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:11:57.20 on 26 Mar 2021
+[2021-03-26 09:11:57 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:11:57 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:11:57 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:11:57.20 on 26 Mar 2021
+[2021-03-26 09:11:57 +0300] Sync Log:  Synchronization complete at 09:11:57  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:12:03 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:12:03.24 on 26 Mar 2021
+[2021-03-26 09:12:03 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:12:03 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:12:03 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:12:03.24 on 26 Mar 2021
+[2021-03-26 09:12:03 +0300] Sync Log:  Synchronization complete at 09:12:03  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:14:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:14:45.02 on 26 Mar 2021
+[2021-03-26 09:14:45 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile from /host_sync to /app_sync
+[2021-03-26 09:14:45 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile
+[2021-03-26 09:14:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:14:45.02 on 26 Mar 2021
+[2021-03-26 09:14:45 +0300] Sync Log:  Synchronization complete at 09:14:45  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:33:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:33:13.38 on 26 Mar 2021
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/lib/common/money_helper.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/assets/javascripts/lib/common/money_helper.js.opal
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/helpers/money_helper.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/helpers/money_helper.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/models/heritage/users/group.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/models/heritage/users/group.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/models/heritage/users/user.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/models/heritage/users/user.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/operations/employer/client/directories/index.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/operations/employer/client/directories/index.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/operations/employer/common/serialize/directory.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/operations/employer/common/serialize/directory.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/operations/employer/content_provider/serialize/location.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/operations/employer/content_provider/serialize/location.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/operations/employer/guest/schedule/defaults.rb from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/operations/employer/guest/schedule/defaults.rb
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/views/translations/en/employer/common/views/clubs/doors.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/views/translations/en/employer/common/views/clubs/doors.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file app/views/translations/en/employer/common/views/users/groups.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file app/views/translations/en/employer/common/views/users/groups.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-coach.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-coach.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-dir.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-dir.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-ff.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-ff.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-frame.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-frame.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-lb.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-lb.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-matrix.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-matrix.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-pav.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-pav.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-trx.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-trx.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-ts.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-ts.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/staging.yml from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file docker/stackfiles/staging.yml
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file public/.well-known/apple-app-site-association from /host_sync to /app_sync
+[2021-03-26 09:33:13 +0300] Sync Log:  [END] Updating file public/.well-known/apple-app-site-association
+[2021-03-26 09:33:13 +0300] Sync Log:  [BGN] Updating file spec/models/heritage/billing/internal_payments/occurrence_bill_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:14 +0300] Sync Log:  [END] Updating file spec/models/heritage/billing/internal_payments/occurrence_bill_spec.rb
+[2021-03-26 09:33:14 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/client/occurrences/cancel_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:14 +0300] Sync Log:  [END] Updating file spec/operations/employer/client/occurrences/cancel_spec.rb
+[2021-03-26 09:33:14 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/emails/client_service_packages/subscribed_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:14 +0300] Sync Log:  [END] Updating file spec/operations/employer/emails/client_service_packages/subscribed_spec.rb
+[2021-03-26 09:33:14 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/manager/reports/capacity_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:14 +0300] Sync Log:  [END] Updating file spec/operations/employer/manager/reports/capacity_spec.rb
+[2021-03-26 09:33:14 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/shared/for_managers/serialize/user_shared.rb from /host_sync to /app_sync
+[2021-03-26 09:33:14 +0300] Sync Log:  [END] Updating file spec/operations/employer/shared/for_managers/serialize/user_shared.rb
+[2021-03-26 09:33:14 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:33:13.48 on 26 Mar 2021
+[2021-03-26 09:33:14 +0300] Sync Log:  Synchronization complete at 09:33:13  (29 items transferred, 0 skipped, 0 failed)
+[2021-03-26 09:33:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:33:39.67 on 26 Mar 2021
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/lib/common/money_helper.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/assets/javascripts/lib/common/money_helper.js.opal
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/helpers/money_helper.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/helpers/money_helper.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/models/heritage/users/group.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/models/heritage/users/group.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/models/heritage/users/user.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/models/heritage/users/user.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/operations/employer/client/directories/index.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/operations/employer/client/directories/index.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/operations/employer/common/serialize/directory.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/operations/employer/common/serialize/directory.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/operations/employer/content_provider/serialize/location.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/operations/employer/content_provider/serialize/location.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/operations/employer/guest/schedule/defaults.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/operations/employer/guest/schedule/defaults.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/views/translations/en/employer/common/views/clubs/doors.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/views/translations/en/employer/common/views/clubs/doors.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file app/views/translations/en/employer/common/views/users/groups.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file app/views/translations/en/employer/common/views/users/groups.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-coach.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-coach.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-dir.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-dir.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-ff.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-ff.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-frame.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-frame.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-lb.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-lb.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-matrix.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-matrix.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-pav.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-pav.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-trx.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-trx.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu-ts.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu-ts.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/live-eu.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/live-eu.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file docker/stackfiles/staging.yml from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file docker/stackfiles/staging.yml
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file public/.well-known/apple-app-site-association from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file public/.well-known/apple-app-site-association
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file spec/models/heritage/billing/internal_payments/occurrence_bill_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file spec/models/heritage/billing/internal_payments/occurrence_bill_spec.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/client/occurrences/cancel_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file spec/operations/employer/client/occurrences/cancel_spec.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/emails/client_service_packages/subscribed_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file spec/operations/employer/emails/client_service_packages/subscribed_spec.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/manager/reports/capacity_spec.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file spec/operations/employer/manager/reports/capacity_spec.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  [BGN] Updating file spec/operations/employer/shared/for_managers/serialize/user_shared.rb from /host_sync to /app_sync
+[2021-03-26 09:33:40 +0300] Sync Log:  [END] Updating file spec/operations/employer/shared/for_managers/serialize/user_shared.rb
+[2021-03-26 09:33:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:33:39.70 on 26 Mar 2021
+[2021-03-26 09:33:40 +0300] Sync Log:  Synchronization complete at 09:33:39  (29 items transferred, 0 skipped, 0 failed)
+[2021-03-26 09:33:43 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:33:43.20 on 26 Mar 2021
+[2021-03-26 09:33:43 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/lib/common/money_helper.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:43 +0300] Sync Log:  [END] Updating file app/assets/javascripts/lib/common/money_helper.js.opal
+[2021-03-26 09:33:43 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:33:43.20 on 26 Mar 2021
+[2021-03-26 09:33:43 +0300] Sync Log:  Synchronization complete at 09:33:43  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:33:44 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:33:44.27 on 26 Mar 2021
+[2021-03-26 09:33:44 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:33:44 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:33:44 +0300] Sync Log:  [BGN] Updating file app/helpers/money_helper.rb from /host_sync to /app_sync
+[2021-03-26 09:33:44 +0300] Sync Log:  [END] Updating file app/helpers/money_helper.rb
+[2021-03-26 09:33:44 +0300] Sync Log:  [BGN] Updating file app/models/heritage/clubs/tax.rb from /host_sync to /app_sync
+[2021-03-26 09:33:44 +0300] Sync Log:  [END] Updating file app/models/heritage/clubs/tax.rb
+[2021-03-26 09:33:44 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:33:44.27 on 26 Mar 2021
+[2021-03-26 09:33:44 +0300] Sync Log:  Synchronization complete at 09:33:44  (3 items transferred, 0 skipped, 0 failed)
+[2021-03-26 09:34:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:34:09.76 on 26 Mar 2021
+[2021-03-26 09:34:10 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:34:10 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:34:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:34:09.76 on 26 Mar 2021
+[2021-03-26 09:34:10 +0300] Sync Log:  Synchronization complete at 09:34:09  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:34:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:34:10.79 on 26 Mar 2021
+[2021-03-26 09:34:11 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile from /host_sync to /app_sync
+[2021-03-26 09:34:11 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile
+[2021-03-26 09:34:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:34:10.79 on 26 Mar 2021
+[2021-03-26 09:34:11 +0300] Sync Log:  Synchronization complete at 09:34:10  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:34:30 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:34:30.32 on 26 Mar 2021
+[2021-03-26 09:34:30 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/lib/common/money_helper.js.opal from /host_sync to /app_sync
+[2021-03-26 09:34:30 +0300] Sync Log:  [END] Updating file app/assets/javascripts/lib/common/money_helper.js.opal
+[2021-03-26 09:34:30 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:34:30.33 on 26 Mar 2021
+[2021-03-26 09:34:30 +0300] Sync Log:  Synchronization complete at 09:34:30  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:34:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:34:31.38 on 26 Mar 2021
+[2021-03-26 09:34:31 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/lib/common/money_helper.js.opal from /host_sync to /app_sync
+[2021-03-26 09:34:31 +0300] Sync Log:  [END] Updating file app/assets/javascripts/lib/common/money_helper.js.opal
+[2021-03-26 09:34:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:34:31.38 on 26 Mar 2021
+[2021-03-26 09:34:31 +0300] Sync Log:  Synchronization complete at 09:34:31  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:35:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:35:23.53 on 26 Mar 2021
+[2021-03-26 09:35:23 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 09:35:23 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 09:35:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:35:23.53 on 26 Mar 2021
+[2021-03-26 09:35:23 +0300] Sync Log:  Synchronization complete at 09:35:23  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:35:24 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:35:24.56 on 26 Mar 2021
+[2021-03-26 09:35:24 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile from /host_sync to /app_sync
+[2021-03-26 09:35:24 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile
+[2021-03-26 09:35:24 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:35:24.56 on 26 Mar 2021
+[2021-03-26 09:35:25 +0300] Sync Log:  Synchronization complete at 09:35:24  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:38:28 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:38:27.89 on 26 Mar 2021
+[2021-03-26 09:38:28 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:38:28 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:38:28 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:38:27.89 on 26 Mar 2021
+[2021-03-26 09:38:28 +0300] Sync Log:  Synchronization complete at 09:38:27  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:40:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:40:00.55 on 26 Mar 2021
+[2021-03-26 09:40:00 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:40:00 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:40:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:40:00.56 on 26 Mar 2021
+[2021-03-26 09:40:00 +0300] Sync Log:  Synchronization complete at 09:40:00  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:40:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:40:05.31 on 26 Mar 2021
+[2021-03-26 09:40:05 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:40:05 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:40:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:40:05.31 on 26 Mar 2021
+[2021-03-26 09:40:05 +0300] Sync Log:  Synchronization complete at 09:40:05  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:40:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:40:51.19 on 26 Mar 2021
+[2021-03-26 09:40:51 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:40:51 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:40:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:40:51.19 on 26 Mar 2021
+[2021-03-26 09:40:51 +0300] Sync Log:  Synchronization complete at 09:40:51  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:41:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:41:50.45 on 26 Mar 2021
+[2021-03-26 09:41:51 +0300] Sync Log:  [BGN] Updating file docker/app/Dockerfile.development from /host_sync to /app_sync
+[2021-03-26 09:41:51 +0300] Sync Log:  [END] Updating file docker/app/Dockerfile.development
+[2021-03-26 09:41:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:41:50.85 on 26 Mar 2021
+[2021-03-26 09:41:52 +0300] Sync Log:  Synchronization complete at 09:41:51  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 09:42:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 09:42:50.91 on 26 Mar 2021
+[2021-03-26 09:42:51 +0300] Sync Log:  [BGN] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal from /host_sync to /app_sync
+[2021-03-26 09:42:51 +0300] Sync Log:  [END] Updating file app/assets/javascripts/views/employer/common/products/cart/cart.js.opal
+[2021-03-26 09:42:51 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 09:42:50.92 on 26 Mar 2021
+[2021-03-26 09:42:51 +0300] Sync Log:  Synchronization complete at 09:42:50  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 10:21:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:21:30.85 on 26 Mar 2021
+[2021-03-26 10:21:31 +0300] Sync Log:  [BGN] Updating file docker-compose.yml from /host_sync to /app_sync
+[2021-03-26 10:21:31 +0300] Sync Log:  [END] Updating file docker-compose.yml
+[2021-03-26 10:21:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:21:30.85 on 26 Mar 2021
+[2021-03-26 10:21:31 +0300] Sync Log:  Synchronization complete at 10:21:30  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 10:26:02 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:26:02.08 on 26 Mar 2021
+[2021-03-26 10:26:02 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 10:26:02 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2021-03-26 10:26:02 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:26:02.08 on 26 Mar 2021
+[2021-03-26 10:26:02 +0300] Sync Log:  Synchronization complete at 10:26:02  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 10:26:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:26:52.48 on 26 Mar 2021
+[2021-03-26 10:26:52 +0300] Sync Log:  [BGN] Updating file docker-compose.yml from /host_sync to /app_sync
+[2021-03-26 10:26:52 +0300] Sync Log:  [END] Updating file docker-compose.yml
+[2021-03-26 10:26:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:26:52.48 on 26 Mar 2021
+[2021-03-26 10:26:52 +0300] Sync Log:  Synchronization complete at 10:26:52  (1 item transferred, 0 skipped, 0 failed)
+[2021-03-26 10:27:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 10:27:30.94 on 26 Mar 2021
+[2021-03-26 10:27:31 +0300] Sync Log:  [BGN] Copying properties for Gemfile.lock from /host_sync to /app_sync
+[2021-03-26 10:27:31 +0300] Sync Log:  [END] Copying properties for Gemfile.lock
+[2021-03-26 10:27:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 10:27:30.94 on 26 Mar 2021
+[2021-03-26 10:27:31 +0300] Sync Log:  Synchronization complete at 10:27:30  (1 item transferred, 0 skipped, 0 failed)

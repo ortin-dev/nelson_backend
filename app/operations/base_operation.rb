@@ -1,4 +1,4 @@
-class Base
+class BaseOperation
   include Pundit
   include Dry::Transaction
   include Core::Helpers::PolicyHelper

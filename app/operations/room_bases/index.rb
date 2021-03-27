@@ -1,5 +1,5 @@
 module RoomBases
-  class Index < Base
+  class Index < BaseOperation
 
     step :prepare_params
     step :perform
